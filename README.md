@@ -20,7 +20,10 @@ Please note that these codes belong to AdderNet originally, very small modificat
 
 @article{AdderNet,
 	title={AdderNet: Do We Really Need Multiplications in Deep Learning?},
+	
 	author={Chen, Hanting and Wang, Yunhe and Xu, Chunjing and Shi, Boxin and Xu, Chao and Tian, Qi and Xu, Chang},
+	
 	journal={CVPR},
+	
 	year={2020}
 }
