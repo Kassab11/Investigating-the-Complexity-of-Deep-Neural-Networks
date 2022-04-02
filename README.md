@@ -26,4 +26,4 @@ Please note that these codes belong to AdderNet originally, very small modificat
 	author={Chen, Hanting and Wang, Yunhe and Xu, Chunjing and Shi, Boxin and Xu, Chao and Tian, Qi and Xu, Chang},
 	journal={CVPR},
 	year={2020}
-}
+	}
