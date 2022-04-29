@@ -16,6 +16,10 @@ The achieved training accuracy on CIFAR10 is 91.1200%
 The achieved testing accuracy on CIFAR10 is 91.820%
 
 ------------------------------------------------------------------------------------------------------------------
+Preprocessing_Drone_Vs_Bird show the preprocessing steps perfromed on this dataset.
+------------------------------------------------------------------------------------------------------------------
+CNN_CIFAR10 shows the experiment done with the CNN model on CIFAR10, the file has the model summary and testing accuracy
+------------------------------------------------------------------------------------------------------------------
 Please note that these codes belong to AdderNet originally, very small modifications has been done on these codes.
 
 
