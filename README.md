@@ -12,7 +12,7 @@ To test the model you will need "ResNet20-AdderNet.pth", "test.py" Then run the 
 
 A demo file called Demo_Run_AdderNet_CIFAR10.ipynb shows the training and testing Results. 
 
-Preprocessing_Drone_Vs_Bird.ipynb  show the preprocessing steps perfromed on this dataset.
+Preprocessing_Drone_Vs_Bird.ipynb  show the preprocessing steps perfromed on Drone-Vs-Bird dataset.
 
 CNN_CIFAR10.ipynb  shows the experiment done with the CNN model on CIFAR10, the file has the model summary and testing accuracy.
 
