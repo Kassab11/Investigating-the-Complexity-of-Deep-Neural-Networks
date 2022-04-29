@@ -29,7 +29,9 @@ The achieved testing accuracy of the designed CNN on CIFAR10 is 81%
 
 
 ------------------------------------------------------------------------------------------------------------------
-Please note that these codes belong to AdderNet originally, very small modifications has been done on these codes.
+Please note that the AdderNet codes belong to AdderNet authors originally, very small modifications has been done on these codes.
+
+The Drone-Vs-Bird dataset can be downloaded by contacting the authors of the paper.
 
 
 
