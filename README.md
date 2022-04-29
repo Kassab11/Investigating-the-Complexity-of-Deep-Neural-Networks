@@ -13,8 +13,11 @@ To test the model you will need "ResNet20-AdderNet.pth", "test.py" Then run the 
 A demo file called Demo_Run.ipynb shows the training and testing Results. 
 
 The achieved training accuracy of AdderNet on CIFAR10 is 91.1200%
+
 The achieved testing accuracy of AdderNet on CIFAR10 is 91.820%
+
 The achieved testing accuracy of AdderNet on Modifed Drone-Vs-Bird is 88%
+
 The achieved testing accuracy of the designed CNN on CIFAR10 is 81%
 
 
