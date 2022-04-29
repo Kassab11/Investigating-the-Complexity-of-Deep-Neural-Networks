@@ -10,7 +10,12 @@ To test the model you will need "ResNet20-AdderNet.pth", "test.py" Then run the 
 
 %run test.py --dataset cifar10 --model_dir '/Choose/Correct/Path/ResNet20-AdderNet.pth' --data_dir '/Choose/Correct/Path/To/Data'
 
-A demo file called Demo_Run.ipynb shows the training and testing Results. 
+A demo file called Demo_Run_AdderNet_CIFAR10.ipynb shows the training and testing Results. 
+
+Preprocessing_Drone_Vs_Bird.ipynb  show the preprocessing steps perfromed on this dataset.
+
+CNN_CIFAR10.ipynb  shows the experiment done with the CNN model on CIFAR10, the file has the model summary and testing accuracy.
+
 
 The achieved training accuracy of AdderNet on CIFAR10 is 91.1200%
 
@@ -21,8 +26,7 @@ The achieved testing accuracy of AdderNet on Modifed Drone-Vs-Bird is 88%
 The achieved testing accuracy of the designed CNN on CIFAR10 is 81%
 
 
-Preprocessing_Drone_Vs_Bird show the preprocessing steps perfromed on this dataset.
-CNN_CIFAR10 shows the experiment done with the CNN model on CIFAR10, the file has the model summary and testing accuracy
+
 
 ------------------------------------------------------------------------------------------------------------------
 Please note that these codes belong to AdderNet originally, very small modifications has been done on these codes.
