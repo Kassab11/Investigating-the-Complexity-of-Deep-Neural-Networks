@@ -40,3 +40,12 @@ Please note that these codes belong to AdderNet originally, very small modificat
 	journal={CVPR},
 	year={2020}
 	}
+	
+	@inproceedings{Drone-Vs-Bird,
+  	title={Drone-vs-Bird Detection Challenge at IEEE AVSS2021},
+  	author={Coluccia, Angelo and Fascista, Alessio and Schumann, Arne and Sommer, Lars and Dimou, Anastasios and Zarpalas, Dimitrios and Akyon, Fatih Cagatay and	      Eryuksel, Ogulcan and Ozfuttu, Kamil Anil and Altinuc, Sinan Onur and others},
+  	booktitle={2021 17th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)},
+  	pages={1--8},
+  	year={2021},
+  	organization={IEEE}
+}
